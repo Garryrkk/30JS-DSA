@@ -26,4 +26,3 @@
         cache[key] = result;
         return result;
     }
-}
